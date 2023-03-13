@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Bienvenido a la página de Guille
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Mi página de [Github](https://github.com/drain113).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[![](https://raw.githubusercontent.com/drain113/pictures/main/Fotos/332162470_1674199083037668_6749955842809211575_n.jpg
+)](https://github.com/drain113)
+
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+En esta página puedes encontrar maś información sobre mis proyectos.
+
+
+
+ [![](https://preview.redd.it/enr7hhg3zku81.png?auto=webp&s=fc017e6a82f91cc81ab3dd7d0388ef57bfd72c30)](https://github.com/drain113)
